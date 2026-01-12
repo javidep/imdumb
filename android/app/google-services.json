@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "42989598603",
+    "project_id": "businessapp-deve",
+    "storage_bucket": "businessapp-deve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42989598603:android:a0292ac21ee8dbd813e18e",
+        "android_client_info": {
+          "package_name": "com.imdumb.imdumb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42989598603-8mdkhuvlrjqc3qakh54j3slmgr5u3fql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MkIZy7_rszbF5OiGg5Qzcc5tEd5ZDRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42989598603-8mdkhuvlrjqc3qakh54j3slmgr5u3fql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42989598603-fjqlmf7t8gnme5mki81892os5cs0e5hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imdumb.imdumb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
