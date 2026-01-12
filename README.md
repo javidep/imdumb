@@ -2,15 +2,25 @@
 
 Gestion Source reto
 
-## Getting Started
+#Resumen del proyecto.
+App que lista categorias de peliculas, cada categoria tiene un listado de peliculas, al ingresar al detalle de la pelicula se muestra los datos de la pelicula como (titulo, descripcion, calificacion, imagenes, actores). Tambien se cuenta con el boton de recomendar.
 
-This project is a starting point for a Flutter application.
+#Arquitectura usada
+Clean Arquitecture + TDD con Bloc
 
-A few resources to get you started if this is your first Flutter project:
+Presentacion: Widgets, Logica presentacion, Bloc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dominio: Use cases, entidades 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data: Repositorios, data sources, APIs
+
+#Tech stack y dependencias
+Version Flutter: 3.38.6
+Version Xcode: 16.2
+
+#Cómo correr el proyecto
+1. Tener instalado Fluuter version 3.38.6 (tambien se puede ejecutar con versiones 3.x, aunque no esta probado)
+2. Tener instalado el SDK para iOS (Xcode version 16.2)
+3. Usar de preferencia IntelliJ IDEA (version 2024.2.4) como interfaz de desarrollo (no debe haber problema con otros IDs como visual code)
+4. Clonar el proyecto del repositorio publico (https://github.com/javidep/imdumb.git)
+   
