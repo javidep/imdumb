@@ -42,5 +42,6 @@ IntelliJ IDEA: 2024.2.4 (opcional recomendado, se pouede usar otros como visual 
 
 #Capturas de pantalla
 
-Se 
+Se adjunta imagenes y video de la app (https://drive.google.com/drive/folders/1K4c32zt6h-w8c-sx5vlZG0D3s9ed1IFy?usp=share_link)
+
    
