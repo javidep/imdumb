@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:imdumb/features/movies/presentation/splash_page.dart';
+import 'package:imdumb/features/movies/presentation/widgets/splash_page.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
