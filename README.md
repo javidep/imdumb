@@ -16,6 +16,7 @@ Version Xcode: 16.2
 IntelliJ IDEA: 2024.2.4 (opcional recomendado, se puede usar otros como visual code)
 
 #Cómo correr el proyecto
+
 1.Tener instalado Flutter version 3.38.6 (también se puede ejecutar con versiones 3.x, aunque no esta probado)
 
 2. Tener instalado el SDK para iOS (Xcode version 16.2)
