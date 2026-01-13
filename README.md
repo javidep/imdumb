@@ -17,10 +17,15 @@ IntelliJ IDEA: 2024.2.4 (opcional recomendado, se puede usar otros como visual c
 
 #Cómo correr el proyecto
 1.Tener instalado Flutter version 3.38.6 (también se puede ejecutar con versiones 3.x, aunque no esta probado)
+
 2. Tener instalado el SDK para iOS (Xcode version 16.2)
+   
 3. Usar de preferencia IntelliJ IDEA (version 2024.2.4) como interfaz de desarrollo (no debe haber problema con otros IDs como visual code, siempre que tenga experiencia en el manejo del mismo)
+   
 4. Clonar el proyecto del repositorio publico (https://github.com/javidep/imdumb.git)
+   
 5. De ser necesario configurar en Settings > languages & frameworks (Flutter, Dart) para que lea las rutas de Flutter y Dart para que el main.dart pueda ejecutarse
+   
 6. Ejecutar el proyecto, ejecutar "flutter pub get" para instalar las dependencias, luego ejecutar "flutter run" o directamente desde la interfaz de desarrollo
 
 #Configuración de Firebase: No es necesario todo esta configurado y listo para usarse
