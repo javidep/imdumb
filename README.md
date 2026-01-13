@@ -13,9 +13,13 @@ Dominio: Use cases, entidades
 Data: Repositorios, data sources, APIs
 
 #Tech stack y dependencias Mac: 
+
 MacOS 15.2 o superior 
+
 Version Flutter: 3.38.6 
+
 Version Xcode: 16.2 
+
 IntelliJ IDEA: 2024.2.4 (opcional recomendado, se puede usar otros como visual code)
 
 #Cómo correr el proyecto
