@@ -5,8 +5,11 @@ Gestión Source reto
 #Resumen del proyecto. App que lista categorías de películas, cada categoría tiene un listado de películas, al ingresar al detalle de la película se muestra los datos de la película como (titulo, descripción, calificación, imágenes, actores). También se cuenta con el botón de recomendar.
 
 #Arquitectura usada Clean Arquitecture + TDD con Bloc
+
 Presentación: Widgets, Logica presentación, Bloc
+
 Dominio: Use cases, entidades
+
 Data: Repositorios, data sources, APIs
 
 #Tech stack y dependencias Mac: 
