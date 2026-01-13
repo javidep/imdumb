@@ -22,6 +22,7 @@ Version Xcode: 16.2
 
 IntelliJ IDEA: 2024.2.4 (opcional recomendado, se puede usar otros como visual code)
 
+
 #Cómo correr el proyecto
 
 1.Tener instalado Flutter version 3.38.6 (también se puede ejecutar con versiones 3.x, aunque no esta probado)
@@ -36,9 +37,12 @@ IntelliJ IDEA: 2024.2.4 (opcional recomendado, se puede usar otros como visual c
    
 6. Ejecutar el proyecto, ejecutar "flutter pub get" para instalar las dependencias, luego ejecutar "flutter run" o directamente desde la interfaz de desarrollo
 
+
 #Configuración de Firebase: No es necesario todo esta configurado y listo para usarse
 
-#Endpoint(s) utilizados: Primero se realizo el modelado en la base de datos de firebase (firestore), luego se desarrolló las siguientes APIs
+
+#Endpoint(s) utilizados: 
+Primero se realizo el modelado en la base de datos de firebase (firestore), luego se desarrolló las siguientes APIs
 https://dev-api-42989598603.us-central1.run.app/dev/get-movie-category (api que lista las categorías de películas)
 https://dev-api-42989598603.us-central1.run.app/dev/get-movies/CAT00001 (api que lista las películas por categoría seleccionada)
 
